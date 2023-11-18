@@ -3,6 +3,9 @@
 # TLDs (Top Level Domains) used outside China mainland
 include:tld-!cn
 
+# Anime, Comics & Games
+include:category-acg
+
 # Advertisment & Analytics
 include:pubmatic
 include:taboola
@@ -59,17 +62,7 @@ include:stackpath
 include:category-cas
 
 # Communications
-include:clubhouse
-include:discord
-include:freenode
-include:intercom
-include:line
-include:matrix
-include:messenger
-include:signal
-include:slack
-include:telegram
-include:whatsapp
+include:category-communication
 
 # Cryptocurrency
 include:category-cryptocurrency
@@ -112,6 +105,8 @@ include:udacity
 include:udemy
 include:w3schools
 
+chemequations.com # 线上化学方程式！
+
 # Entertainment & Games & Music & Podcasts & Videos
 include:category-entertainment
 
@@ -127,6 +122,7 @@ include:imageshack
 include:imagetwist
 include:imgbb
 include:imgur
+include:pikpak
 include:pixhost
 include:postimages
 include:pstorage
@@ -156,6 +152,7 @@ include:falungong
 # Services & Softwares
 include:category-android-app-download
 include:category-browser-!cn
+include:category-enhance-gaming
 include:decryptipastore # iOS
 
 include:accuweather
@@ -211,7 +208,6 @@ include:ok
 include:okaapps
 include:opencollective
 include:organicmaps
-include:osdn
 include:pastebin
 include:patreon
 include:picsee
@@ -250,6 +246,8 @@ include:zeplin
 include:zoho
 include:zoom
 
+biliplus.com # BiliPlus
+
 # Online LaTeX Editor
 cloudlatex.io
 overleaf.com
@@ -283,7 +281,12 @@ include:wikidot
 include:wikihow
 include:wikimedia
 
+atwiki.jp
 touhouwiki.net
+
+# Nebula Emby
+api.nebula-emby.com
+web.nebula-emby.com
 
 # Others
 include:avaxhome
