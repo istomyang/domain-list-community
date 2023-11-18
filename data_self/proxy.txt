@@ -1,8 +1,9 @@
 include:google.txt
 include:github.txt
-
-telegram
-twitter
+include:telegram.txt
+include:telegram.txt
+include:youtube.txt
+include:twitter.txt
 
 domain:wikipedia.org
 domain:mediawiki.org
