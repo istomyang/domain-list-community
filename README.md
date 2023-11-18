@@ -1,5 +1,7 @@
 # Domain list community
 
+https://github.com/v2fly/domain-list-community/tree/master/data
+
 This project manages a list of domains, to be used as geosites for routing purpose in Project V.
 
 ## Purpose of this project
